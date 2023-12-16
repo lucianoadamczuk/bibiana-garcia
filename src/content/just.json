@@ -1,0 +1,40 @@
+{
+	"text": [
+		"Explora la distinguida línea de cuidado personal de Just, la renombrada empresa suiza de cosméticos.",
+		"Desde 1930, Just ofrece productos de bienestar y belleza con ingredientes naturales, destacando la pureza y eficacia de la naturaleza suiza.",
+		"Complementa tu vida con Just. Como consultora de la marca, estoy aquí para brindarte asesoramiento personalizado y ofrecerte estos exclusivos productos."
+	],
+	"highlight": "Asesoramiento personalizado",
+	"products": [
+		{
+			"title": "Oleo 31",
+			"description": "Ayuda a respirar mejor. Mediante el masaje relaja, devolviendo la energía y la agilidad naturales del cuerpo. Afloja las tensiones que generan dolores musculares y de cabeza. El Óleo 31 potencia la acción de otros productos Just creando una sinergia única.",
+			"src": "/images/products/oleo31.jpg"
+		},
+		{
+			"title": "Tea Tree",
+			"description": "En sus viajes de exploración por Australia, el Capitán Cook aprendió de los indígenas las maravillosas propiedades del tea tree al brindarles primeros auxilios a sus soldados como desinfectante, desinflamatorio, analgésico y cicatrizante. Desde entonces, el tea tree se ha utilizado extensamente para cuidar la piel por ser muy efectivo y delicado a la vez.",
+			"src": "/images/products/teaTree.jpg"
+		},
+		{
+			"title": "Aceite de Lavanda",
+			"description": "Su aroma calma y aquieta los nervios, la ansiedad y el estrés ayudando a conciliar el sueño cuando resulta difícil bajar revoluciones. Es el aceite ideal para tener en el botiquín de primeros auxilios a la hora de reconfortar la piel en casos de quemaduras, eczemas y alergias.",
+			"src": "/images/products/lavanda.jpg"
+		},
+		{
+			"title": "Crema de enebro",
+			"description": "El calor y los masajes son la recomendación más antigua para aflojar las tensiones musculares y las molestias que éstas producen a raíz de contracturas, problemas de postura o de la actividad misma. Un masaje con Crema de Enebro relaja los músculos, facilita el movimiento de personas mayores y, por su acción calorífica, ayuda a preparar el cuerpo antes de los deportes y la actividad física.",
+			"src": "/images/products/cremaDeEnebro.jpg"
+		},
+		{
+			"title": "Spray de eucasol",
+			"description": "Spray de eucalipto enriquecido con una delicada mezcla de aceites esenciales refrescantes que devuelven el placer de respirar libremente. Rociado sobre el pañuelo o la almohada, aplicado sobre el pijama o vaporizado en el ambiente, posee un aroma que despeja, purifica y aromatiza de manera refrescante y placentera.",
+			"src": "/images/products/eucasol.jpg"
+		},
+		{
+			"title": "Crema de tomillo",
+			"description": "Un masaje en el pecho, cuello, espalda y plantas de los pies con Crema de Tomillo, rica en aceite esencial de esta maravillosa hierba reconfortante y aromática, relaja las tensiones que se acumulan en el pecho y generan incomodidad en el invierno. Perfecto en combinación con la Esencia para Baño de Tomillo.",
+			"src": "/images/products/cremaDeTomillo.jpeg"
+		}
+	]
+}
