@@ -14,7 +14,9 @@ export default function AboutMe() {
 			</AnimateLeftToRight>
 
 			<AnimateRightToLeft>
-				<p>sd</p>
+				<div className='  flex  justify-center'>
+					<img src='/images/bibiana.svg' className=' h-96' />
+				</div>
 			</AnimateRightToLeft>
 		</Grid1x1>
 	);

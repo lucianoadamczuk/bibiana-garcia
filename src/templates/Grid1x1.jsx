@@ -1,7 +1,7 @@
 import propTypes from 'prop-types';
 export default function Grid1x1({ children }) {
 	return (
-		<section className=' container py-20 grid lg:grid-cols-2 gap-10 place-items-center'>
+		<section className=' container py-20 grid lg:grid-cols-2 gap-10 place-items-center overflow-hidden'>
 			{children}
 		</section>
 	);

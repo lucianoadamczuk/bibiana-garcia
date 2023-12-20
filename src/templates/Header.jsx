@@ -12,10 +12,10 @@ export default function Header() {
 	];
 	return (
 		<header
-			className=' w-full py-10  bg-cover bg-center'
+			className=' w-full py-10   bg-cover bg-center overflow-hidden bg-fixed'
 			style={{ backgroundImage: 'url(/images/header-desktop.jpg)' }}
 		>
-			<div className=' py-10 bg-gradient-to-r bg-primary-dark bg-opacity-40 backdrop-blur-md'>
+			<div className=' py-10 2xl:py-40 bg-gradient-to-r bg-primary-dark bg-opacity-40 backdrop-blur-md'>
 				<section className='container grid gap-5 md:grid-cols-2 items-center'>
 					{/* text */}
 					<AnimateBottomToTop>
